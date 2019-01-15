@@ -7,4 +7,4 @@ my_function <- function(my_df) {
 
 my_dataframe <- data.frame(a <- rnorm(100))
 
-my_function(my_dataframe)
+#my_function(my_dataframe)
