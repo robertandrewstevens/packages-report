@@ -6,5 +6,3 @@ typed "anything"
 An edit from RStudio (another change but using the browser)
 
 Yet another edit from GitHub.
-
-I LOVE GitHub
